@@ -1,4 +1,1 @@
-Hola! este es mi primer proyecto en mi repositorio, espero que sea de su agrado :), en la carpeta peuden encontrar 4 archivos
-El codigo en formato de jupyter notebook
-La documetnacion de mi proceso en formato pdf
-El dataset original y el dataset limpio, ambos en formato .CSV
+Hola! este es mi primer repositorio en github, aqui encontraran todos mis pryoectos organizados por carpetas, las cuales estan nombradas de forma descriptiva en base las herramientas o metodologias que aplico, que lo dsifruten :)
