@@ -1,1 +1,1 @@
-Hola! este es mi primer repositorio en github, aqui encontraran todos mis pryoectos organizados por carpetas, las cuales estan nombradas de forma descriptiva en base las herramientas o metodologias que aplico, que lo dsifruten :)
+Hola! este es mi primer repositorio en github, aqui encontraran todos mis proyectos organizados por carpetas, las cuales estan nombradas de forma descriptiva en base las herramientas o metodologias que aplico, que lo dsifruten :)
